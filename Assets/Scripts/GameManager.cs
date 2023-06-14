@@ -10,6 +10,9 @@ public class GameManager : MonoBehaviour
     public GameObject targetObject2;
     public GameObject targetObject3;
     public GameObject panelFinish;
+    public GameObject check1;
+    public GameObject check2;
+    public GameObject check3;
     public int score;
 
     private void Start()
@@ -30,16 +33,19 @@ public class GameManager : MonoBehaviour
                 {
                     IncreaseScore();
                     Destroy(targetObject1);
+                    check1.SetActive(true);
                 }
                 if (hit.collider.gameObject == targetObject2)
                 {
                     IncreaseScore();
                     Destroy(targetObject2);
+                    check2.SetActive(true);
                 }
                 if (hit.collider.gameObject == targetObject3)
                 {
                     IncreaseScore();
                     Destroy(targetObject3);
+                    check3.SetActive(true);
                 }
             }
             if(score==3)
