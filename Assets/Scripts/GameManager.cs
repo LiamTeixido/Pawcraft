@@ -26,7 +26,7 @@ public class GameManager : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && Time.timeScale ==1f)
         {
             Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             RaycastHit2D hit = Physics2D.Raycast(mousePosition, Vector2.zero);
@@ -67,6 +67,7 @@ public class GameManager : MonoBehaviour
             if(score==5)
             {
                 panelFinish.SetActive(true);
+                Time.timeScale = 0f;
             }
         }
     }
