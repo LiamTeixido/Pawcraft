@@ -2571,7 +2571,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17164ee716ee54d4ba2f16b110bcc0fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startTime: 10
+  startTime: 20
   timerImage: {fileID: 577599014}
   panelFinish: {fileID: 1660228943}
 --- !u!1 &609211122
