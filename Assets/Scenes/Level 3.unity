@@ -5663,7 +5663,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startTime: 25
   timerImage: {fileID: 1959253488}
-  panelFinish: {fileID: 0}
+  panelFinish: {fileID: 113777325}
 --- !u!114 &2016664012
 MonoBehaviour:
   m_ObjectHideFlags: 0
