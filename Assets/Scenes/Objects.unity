@@ -289,7 +289,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1246299786}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1283,7 +1283,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 856581119}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1455,8 +1455,8 @@ RectTransform:
   m_LocalScale: {x: 0.13615848, y: 0.44304028, z: 0.61109}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1375593531}
   - {fileID: 770683739}
+  - {fileID: 1375593531}
   - {fileID: 50185483}
   - {fileID: 1522723481}
   - {fileID: 826909938}
@@ -1671,8 +1671,8 @@ RectTransform:
   m_LocalScale: {x: 0.13615848, y: 0.44304028, z: 0.61109}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 834986513}
   - {fileID: 2007062637}
+  - {fileID: 834986513}
   - {fileID: 1870773849}
   - {fileID: 312395370}
   - {fileID: 1277900650}
@@ -1888,7 +1888,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 472269496}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2794,7 +2794,7 @@ GameObject:
   - component: {fileID: 833506801}
   - component: {fileID: 833506800}
   m_Layer: 5
-  m_Name: true
+  m_Name: PRODUCTO
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2813,7 +2813,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1914785698}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2870,7 +2870,7 @@ GameObject:
   - component: {fileID: 834986515}
   - component: {fileID: 834986514}
   m_Layer: 5
-  m_Name: true
+  m_Name: PRODUCTO
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2889,7 +2889,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 608242063}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -2946,7 +2946,7 @@ GameObject:
   - component: {fileID: 847340100}
   - component: {fileID: 847340099}
   m_Layer: 5
-  m_Name: true
+  m_Name: PRODUCTO
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2965,7 +2965,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1246299786}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3040,8 +3040,8 @@ RectTransform:
   m_LocalScale: {x: 0.13615848, y: 0.44304028, z: 0.61109}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 2063664893}
   - {fileID: 424436212}
+  - {fileID: 2063664893}
   - {fileID: 790971215}
   - {fileID: 1427956726}
   - {fileID: 1084296408}
@@ -3122,7 +3122,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1914785698}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3699,8 +3699,8 @@ RectTransform:
   m_LocalScale: {x: 0.13615848, y: 0.44304028, z: 0.61109}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 847340098}
   - {fileID: 116472937}
+  - {fileID: 847340098}
   - {fileID: 226301406}
   - {fileID: 1194483223}
   - {fileID: 1502496888}
@@ -3908,7 +3908,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1354316181}
-  - component: {fileID: 1354316180}
+  - component: {fileID: 1354316182}
   m_Layer: 0
   m_Name: GameObject
   m_TagString: Untagged
@@ -3916,30 +3916,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1354316180
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1354316179}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 336f620582727ab47b6e75a4185095ab, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  targetObject1: {fileID: 0}
-  targetObject2: {fileID: 0}
-  targetObject3: {fileID: 0}
-  targetObject4: {fileID: 0}
-  targetObject5: {fileID: 0}
-  panelFinish: {fileID: 0}
-  check1: {fileID: 0}
-  check2: {fileID: 0}
-  check3: {fileID: 0}
-  check4: {fileID: 0}
-  check5: {fileID: 0}
-  score: 0
 --- !u!4 &1354316181
 Transform:
   m_ObjectHideFlags: 0
@@ -3955,6 +3931,24 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1354316182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1354316179}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f135efdafd2ffb9499fee3a35f7b58d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  collectibleObjects:
+  - {fileID: 847340097}
+  - {fileID: 833506798}
+  - {fileID: 2063664892}
+  - {fileID: 1375593530}
+  - {fileID: 834986512}
 --- !u!1 &1375593530
 GameObject:
   m_ObjectHideFlags: 0
@@ -3967,7 +3961,7 @@ GameObject:
   - component: {fileID: 1375593533}
   - component: {fileID: 1375593532}
   m_Layer: 5
-  m_Name: true
+  m_Name: PRODUCTO
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3986,7 +3980,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 472269496}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -4923,8 +4917,8 @@ RectTransform:
   m_LocalScale: {x: 0.13615848, y: 0.44304028, z: 0.61109}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 833506799}
   - {fileID: 864409538}
+  - {fileID: 833506799}
   - {fileID: 825016090}
   - {fileID: 688736291}
   - {fileID: 830895611}
@@ -5132,7 +5126,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 608242063}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -5433,7 +5427,7 @@ GameObject:
   - component: {fileID: 2063664895}
   - component: {fileID: 2063664894}
   m_Layer: 5
-  m_Name: true
+  m_Name: PRODUCTO
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5452,7 +5446,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 856581119}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
